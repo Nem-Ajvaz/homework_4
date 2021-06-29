@@ -18,18 +18,18 @@ The purpose of this project was to build a multiple choice questions page which 
 
 Home Screen
 
-![Home Page](/assets/images/screenshots/homepage.png)
+![Home Page](/asset/images/screenshots/homepage.png)
 
 Start
 
 ![Random Question](/assets/images/screenshots/randomquestion.png)
 
-![Submit](/assets/images/screenshots/submit.png)
+![Submit](/asset/images/screenshots/submit.png)
 
 High Scores
 
-![High Scores](/assets/images/screenshots/highscores.png)
-![Reset High Scores](/assets/images/screenshots/resethighscores.png)
+![High Scores](/asset/images/screenshots/highscores.png)
+![Reset High Scores](/asset/images/screenshots/resethighscores.png)
 
 ## Issues faced
 
