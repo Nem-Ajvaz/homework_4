@@ -22,7 +22,7 @@ Home Screen
 
 Start
 
-![Random Question](/assets/images/screenshots/randomquestion.png)
+![Random Question](/asset/images/screenshots/randomquestion.png)
 
 ![Submit](/asset/images/screenshots/submit.png)
 
